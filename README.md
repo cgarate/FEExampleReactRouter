@@ -1,4 +1,4 @@
-## Unity Technical Exercise - Frontend Repo
+## Technical Exercise - Frontend Repo
 
 A simple React/JS FE repo with Webpack and Babel.
 The client implementation is simple and thought towards showing how the API works. It displays two main options to interact as a Player or as an Ops Team Member.
